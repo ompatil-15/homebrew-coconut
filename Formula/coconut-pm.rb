@@ -1,4 +1,4 @@
-class Coconut < Formula
+class CoconutPm < Formula
   desc "Secure, local-first CLI password manager with Zero Knowledge Architecture"
   homepage "https://github.com/ompatil-15/coconut"
   url "https://github.com/ompatil-15/coconut/archive/v1.0.0.tar.gz"
